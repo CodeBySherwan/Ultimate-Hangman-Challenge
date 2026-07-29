@@ -1,8 +1,8 @@
 # 🎮 Ultimate Hangman Challenge V.1.0.0
 
 <div align="center">
-  <img src="https://img.shields.io/badge/version-2.0-blue.svg" alt="Version 1.0">
-  <img src="https://img.shields.io/badge/python-3.6+-green.svg" alt="Python 3.10+">
+  <img src="https://img.shields.io/badge/version-1.0-blue.svg" alt="Version 1.0">
+  <img src="https://img.shields.io/badge/python-3.10+-green.svg" alt="Python 3.10+">
   <img src="https://img.shields.io/badge/license-MIT-yellow.svg" alt="License: MIT">
 </div>
 
