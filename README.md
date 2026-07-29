@@ -227,11 +227,8 @@ This project is available under the MIT License. See LICENSE file for details.
     <b>Challenge your vocabulary, test your luck, and climb the leaderboard in this definitive version of the classic Hangman game!</b>
   </p>
 </div>
-<img width="791" height="958" alt="Main-Menu" src="https://github.com/user-attachments/assets/7b190c1a-60cd-49bb-9e54-6324bf5e430f" />
-![Uploading Difficulty.png…]()
-<img width="751" height="676" alt="Custom-Play" src="https://github.com/user-attachments/assets/35195467-9935-4c87-9294-f5cb982ff5bc" />
+
 <img width="890" height="777" alt="Gameplay" src="https://github.com/user-attachments/assets/39f7bcc2-8196-4500-983e-19e60e86e384" />
-<img width="934" height="776" alt="Hall-Of-Fame" src="https://github.com/user-attachments/assets/8b752fe4-e65b-49a2-b287-7ac5c3496a97" />
 
 
 
