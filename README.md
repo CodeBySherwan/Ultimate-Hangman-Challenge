@@ -79,8 +79,8 @@ Our revamped version combines nostalgic console gameplay with contemporary desig
 
 ### System Requirements
 
-- Python 3.6+
-- 50MB free disk space
+- Python 3.10+
+- 25MB free disk space
 - Terminal with color support
 
 ### Dependencies
